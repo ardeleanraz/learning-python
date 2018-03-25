@@ -12,3 +12,4 @@ if hand2 == 'r' and hand1 =='s':
 
 
 
+#lucram in git
